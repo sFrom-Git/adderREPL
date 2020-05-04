@@ -1,0 +1,6 @@
+input pinkLadyApples
+input grannySmithApples
+totalApples gets 0
+totalApples adds pinkLadyApples
+totalApples adds grannySmithApples
+print totalApples
